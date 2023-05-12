@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "704032314768",
+    "project_id": "misnotas-flutter-project-97783",
+    "storage_bucket": "misnotas-flutter-project-97783.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704032314768:android:6cf071f1f2452cb48c0f15",
+        "android_client_info": {
+          "package_name": "dev.brayancjr7.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704032314768-d1cokmq8s7i556tpnfgitja34tgufqv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh7UuIDOP8QJXYTr7v7QKG75ZpaHVyBsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704032314768-d1cokmq8s7i556tpnfgitja34tgufqv4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "704032314768-t2ko40766hqlk0785tjgbu4uc0mobihq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.brayancjr7.mynotes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
