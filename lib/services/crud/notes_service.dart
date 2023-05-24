@@ -1,3 +1,4 @@
+/*
 import 'dart:async';
 import 'package:flutter/foundation.dart';
 import 'package:mynotes/extensions/list/filter.dart';
@@ -358,3 +359,4 @@ const createNoteTable = '''CREATE TABLE IF NOT EXISTS "note" (
         FOREIGN KEY("user_id") REFERENCES "user"("id"),
         PRIMARY KEY("id" AUTOINCREMENT)
       );''';
+*/
